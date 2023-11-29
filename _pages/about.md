@@ -19,4 +19,54 @@ Research interests
 
 Publications
 ======
-* Prognostic value of patient-reported outcome measures (PROMs) in adults with non-small cell Lung Cancer: a scoping review
+<style>
+.biblist { }
+
+/* The item */
+.biblist li { }
+
+/* You can define custom styles for plstyle field here. */
+
+
+/*************************************
+   The box that contain BibTeX code
+ *************************************/
+div.noshow { display: none; }
+div.bibtex {
+  margin-right: 0%;
+  margin-top: 1.2em;
+  margin-bottom: 1.3em;
+  border: 1px solid silver;
+  padding: 0.3em 0.5em;
+  background: #eeeeee;
+}
+div.bibtex pre { font-size: 75%; overflow: auto;  width: 100%; }
+</style>
+
+<script>
+function toggleBibtex(articleid) {
+  var bib = document.getElementById('bib_'+articleid);
+  if (bib) {
+    if(bib.className.indexOf('bibtex') != -1) {
+    bib.className.indexOf('noshow') == -1?bib.className = 'bibtex noshow':bib.className = 'bibtex';
+    }
+  } else {
+    return;
+  }
+}
+</script>
+
+
+### Journal Publications
+<ol class="biblist">
+
+<!-- Item: liao_prognostic_2022-->
+<li ><p>
+<b>Prognostic value of patient-reported outcome measures (PROMs) in adults with non-small cell Lung Cancer: a scoping review</b><br>
+<b>Kuan Liao</b>, Tianxiao Wang, Jake Coomber-Moore, David Wong, Fabio Gomes, Corinne Faivre-Finn, Matthew Sperrin, and Sabine van der Veer<br>
+
+<i>BMC Cancer</i>,
+
+2022<br>
+<a href="https://doi.org/10.1186/s12885-022-10151-z" class="textlink" target="_blank">[link]</a>
+
