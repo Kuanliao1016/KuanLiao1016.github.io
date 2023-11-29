@@ -68,5 +68,5 @@ function toggleBibtex(articleid) {
 <i>BMC Cancer</i>,
 
 2022<br>
-<a href="https://doi.org/10.1186/s12885-022-10151-z" class="textlink" target="_blank">[link]</a>
+<a href="https://doi.org/10.1186/s12885-022-10151-z" class="textlink" target="_blank">[Link]</a>
 
