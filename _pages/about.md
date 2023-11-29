@@ -19,7 +19,6 @@ My PhD project focuses on the prognostic value of electronic patient-reported ou
 
 Publications
 ======
-* Prognostic value of patient-reported outcome measures (PROMs) in adults with non-small cell Lung Cancer: a scoping review
 <style>
 .biblist { }
 
@@ -58,12 +57,12 @@ function toggleBibtex(articleid) {
 </script>
 
 
-## Journal Publications
+### Journal Publications
 <ol class="biblist">
 
 <!-- Item: liao_prognostic_2022-->
 <li ><p>
-<b>Prognostic value of patient-reported outcome measures ({PROMs}) in adults with non-small cell {Lung} {Cancer}: a scoping review</b><br>
+<b>Prognostic value of patient-reported outcome measures (PROMs) in adults with non-small cell Lung Cancer: a scoping review</b><br>
 <b>Kuan Liao</b>, Tianxiao Wang, Jake Coomber-Moore, David Wong, Fabio Gomes, Corinne Faivre-Finn, Matthew Sperrin, and Sabine van der Veer<br>
 
 <i>BMC Cancer</i>,
