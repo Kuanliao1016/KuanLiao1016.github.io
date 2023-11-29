@@ -11,6 +11,6 @@ redirect_from:
 
 <p style="text-indent:0">You can download my full CV in PDF format <a href="../files/CV_kuan.pdf" class="textlink" target="_blank">here</a>.</p>
 
-<object width="100%" height="100px" data="../files/CV.pdf" type="application/pdf">
+<object width="100%" height="100px" data="../files/CV_kuan.pdf" type="application/pdf">
 <p style="text-indent:0"></p>
 </object>
