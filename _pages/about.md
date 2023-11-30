@@ -60,6 +60,17 @@ function toggleBibtex(articleid) {
 ### Journal Publications
 <ol class="biblist">
 
+<!-- Item: liao_prognostic_2023-->
+<li ><p>
+<b>Fixing the Leaky Pipe: How to Improve the Uptake of Patient-Reported Outcomes–Based Prognostic and Predictive Models in Cancer Clinical Practice</b><br>
+Katie Spencer, Kate Absolom, Matthew Allsop, Samuel Relton, Jessica Pearce, <b>Kuan Liao</b>, Sairah Naseer, Omolola Salako, Daniel Howdon, Jenny Hewison, Galina Velikova, Corinne Faivre-Finn, Hilary Bekker, Sabine van der Veerr<br>
+
+<i>JCO Clinical Cancer Informatics</i>,
+
+2023<br>
+<a href="10.1200/CCI.23.00070" class="textlink" target="_blank">[Link]</a>
+
+
 <!-- Item: liao_prognostic_2022-->
 <li ><p>
 <b>Prognostic value of patient-reported outcome measures (PROMs) in adults with non-small cell Lung Cancer: a scoping review</b><br>
@@ -69,4 +80,18 @@ function toggleBibtex(articleid) {
 
 2022<br>
 <a href="https://doi.org/10.1186/s12885-022-10151-z" class="textlink" target="_blank">[Link]</a>
+
+
+
+
+<!-- Item: liao_diet_2019-->
+<li ><p>
+<b>Association of dietary patterns with depressive symptoms in Chinese postmenopausal women</b><br>
+
+<b>Kuan Liao</b>, Yeqing Gu, Mingyue Liu, Jingzhu Fu, Xiaotong Wang, Guanlin Yang, Qing Zhang, Li Liu, Ge Meng, Zhanxin Yao, Hongmei Wu, Yang Xia, Xue Bao, Shunming Zhang, Shaomei Sun, Xing Wang, Ming Zhou, Huanli Jiao, Qiyu Jia, Kun Song, Yuntang Wu and Kaijun Niu<br>
+
+<i>British Journal of Nutrition</i>,
+
+2019<br>
+<a href="https://doi.org/10.1017/S0007114519001867" class="textlink" target="_blank">[Link]</a>
 
