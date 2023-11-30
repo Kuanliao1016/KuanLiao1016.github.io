@@ -68,7 +68,7 @@ Katie Spencer, Kate Absolom, Matthew Allsop, Samuel Relton, Jessica Pearce, <b>K
 <i>JCO Clinical Cancer Informatics</i>,
 
 2023<br>
-<a href="10.1200/CCI.23.00070" class="textlink" target="_blank">[Link]</a>
+<a href="https://doi.org/10.1200/CCI.23.00070" class="textlink" target="_blank">[Link]</a>
 
 
 <!-- Item: liao_prognostic_2022-->
