@@ -96,6 +96,7 @@ Katie Spencer, Kate Absolom, Matthew Allsop, Samuel Relton, Jessica Pearce, <b>K
 <a href="https://doi.org/10.1017/S0007114519001867" class="textlink" target="_blank">[Link]</a>
 
 ### Conferences
+<ol class="biblist">
 <li ><p>
 <b>To what extent, how and how robustly have patientreported outcome measures (PROMs) been investigated as prognostic factors in non-small cell lung cancer: a scoping review</b><br>
 <b>Kuan Liao</b>, Tianxiao Wang, Jake Coomber-Moore, David Wong, Fabio Gomes, Corinne Faivre-Finn, Matthew Sperrin, Janelle Yorke, Sabine Van der Veer<br>
