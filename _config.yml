@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Kuan Liao (廖 宽)"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Kuan Liao's website"
 description              : &description "personal description"
@@ -80,7 +80,7 @@ analytics:
 
 # Site Author
 author:
-  name             : "Kuan Liao"
+  name             : "Kuan Liao(廖 宽)"
   avatar           : "selfie.jpg"
   bio              : "PhD in Health Informatics"
   location         : "Manchester, UK"
