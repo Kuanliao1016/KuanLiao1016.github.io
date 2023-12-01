@@ -67,7 +67,7 @@ Katie Spencer, Kate Absolom, Matthew Allsop, Samuel Relton, Jessica Pearce, <b>K
 
 <i>JCO Clinical Cancer Informatics</i>,
 
-2023<br>
+2023
 <a href="https://doi.org/10.1200/CCI.23.00070" class="textlink" target="_blank">[Link]</a>
 
 
@@ -78,7 +78,7 @@ Katie Spencer, Kate Absolom, Matthew Allsop, Samuel Relton, Jessica Pearce, <b>K
 
 <i>BMC Cancer</i>,
 
-2022<br>
+2022
 <a href="https://doi.org/10.1186/s12885-022-10151-z" class="textlink" target="_blank">[Link]</a>
 
 
@@ -92,6 +92,6 @@ Katie Spencer, Kate Absolom, Matthew Allsop, Samuel Relton, Jessica Pearce, <b>K
 
 <i>British Journal of Nutrition</i>,
 
-2019<br>
+2019
 <a href="https://doi.org/10.1017/S0007114519001867" class="textlink" target="_blank">[Link]</a>
 
