@@ -14,7 +14,7 @@ Research interests
 ======
 * Clinical prediction modelling
 * Causal inference using observational health data
-* My PhD project focuses on the prognostic value of electronic patient-reported outcome measures in adults with advanced non-small cell lung cancer. 
+* Patient reported data 
 
 
 Publications
