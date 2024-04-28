@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a postdoctroal fellow at Peking University Health Science Center, working with [Dr. Pei Gao](https://sph.pku.edu.cn/info/1319/4045.htm). I studied undergraduate Preventive Medicine (Epidimiology & Public Health) at Tianjin Medical University, following by a MSc Health data science at the University of Manchester, where I did my master dissetation with [Dr Sabine van der Veer](https://research.manchester.ac.uk/en/persons/sabine.vanderveer) and [Dr David Wong](https://personalpages.manchester.ac.uk/staff/david.wong/default.htm). Afterwards, I started my PhD in Health Informatics under the supervison of Dr Sabine van der Veer, Dr David Wong, [Dr Mattew Seprrin](https://research.manchester.ac.uk/en/persons/matthew.sperrin), [Prof Janelle Yorke](https://research.manchester.ac.uk/en/persons/janelle.yorke) and [Prof Corinne Faivre-Finn](https://research.manchester.ac.uk/en/persons/corinne.faivre-finn).
+I studied undergraduate Preventive Medicine (Epidimiology & Public Health) at Tianjin Medical University, following by a MSc Health data science at the University of Manchester, where I did my master dissetation with [Dr Sabine van der Veer](https://research.manchester.ac.uk/en/persons/sabine.vanderveer) and [Dr David Wong](https://personalpages.manchester.ac.uk/staff/david.wong/default.htm). Afterwards, I got my PhD in Health Informatics under the supervison of Dr Sabine van der Veer, Dr David Wong, [Dr Mattew Seprrin](https://research.manchester.ac.uk/en/persons/matthew.sperrin), [Prof Janelle Yorke](https://research.manchester.ac.uk/en/persons/janelle.yorke) and [Prof Corinne Faivre-Finn](https://research.manchester.ac.uk/en/persons/corinne.faivre-finn).
 
 
 Research interests
