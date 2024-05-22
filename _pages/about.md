@@ -62,6 +62,17 @@ function toggleBibtex(articleid) {
 
 <!-- Item: liao_prognostic_2023-->
 <li ><p>
+<b>Exploring the value of routinely collected data on EQ-5D-5L and other electronic patient-reported outcome measures as prognostic factors in adults with advanced non-small cell lung cancer receiving immunotherapy</b><br>
+<b>Kuan Liao</b>, David C Wong, Fabio Gomes, Corinne Faivre-Finn, Laura Moliner, Matthew Sperrin, Janelle Yorke and Sabine N van der Veer<br>
+
+<i>BMJ Oncology</i>,
+
+2024
+<a href="https://bmjoncology.bmj.com/content/3/1/e000158" class="textlink" target="_blank">[Link]</a>
+
+
+<!-- Item: liao_prognostic_2023-->
+<li ><p>
 <b>Fixing the Leaky Pipe: How to Improve the Uptake of Patient-Reported Outcomes–Based Prognostic and Predictive Models in Cancer Clinical Practice</b><br>
 Katie Spencer, Kate Absolom, Matthew Allsop, Samuel Relton, Jessica Pearce, <b>Kuan Liao</b>, Sairah Naseer, Omolola Salako, Daniel Howdon, Jenny Hewison, Galina Velikova, Corinne Faivre-Finn, Hilary Bekker, Sabine van der Veer<br>
 
