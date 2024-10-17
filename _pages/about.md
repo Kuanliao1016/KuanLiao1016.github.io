@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I studied undergraduate Preventive Medicine (Epidimiology & Public Health) at Tianjin Medical University, following by a MSc Health data science at the University of Manchester, where I did my master dissetation with [Dr Sabine van der Veer](https://research.manchester.ac.uk/en/persons/sabine.vanderveer) and [Dr David Wong](https://personalpages.manchester.ac.uk/staff/david.wong/default.htm). Afterwards, I got my PhD in Health Informatics under the supervison of Dr Sabine van der Veer, Dr David Wong, [Dr Mattew Seprrin](https://research.manchester.ac.uk/en/persons/matthew.sperrin), [Prof Janelle Yorke](https://research.manchester.ac.uk/en/persons/janelle.yorke) and [Prof Corinne Faivre-Finn](https://research.manchester.ac.uk/en/persons/corinne.faivre-finn).
+I am a postdoctoral research associate at the Hong Kong Polytechnic University. I studied undergraduate Preventive Medicine (Epidimiology & Public Health) at Tianjin Medical University, following by a MSc Health data science at the University of Manchester, where I did my master dissetation with [Dr Sabine van der Veer](https://research.manchester.ac.uk/en/persons/sabine.vanderveer) and [Dr David Wong](https://personalpages.manchester.ac.uk/staff/david.wong/default.htm). Afterwards, I got my PhD in Health Informatics under the supervison of Dr Sabine van der Veer, Dr David Wong, [Dr Mattew Seprrin](https://research.manchester.ac.uk/en/persons/matthew.sperrin), [Prof Janelle Yorke](https://research.manchester.ac.uk/en/persons/janelle.yorke) and [Prof Corinne Faivre-Finn](https://research.manchester.ac.uk/en/persons/corinne.faivre-finn).
 
 
 Research interests
@@ -59,6 +59,15 @@ function toggleBibtex(articleid) {
 
 ### Journal Publications
 <ol class="biblist">
+
+<!-- Item: liao_ePROM_model_2024-->
+<li ><p>
+<b>Development, validation and clinical utility of electronic patient-reported outcome measures-enhanced prediction models for overall survival in people with advanced NSCLC receiving immunotherapy.,</b><br>
+<b>Kuan Liao</b>, Sabine N van der Veer, Fabio Gomes, Corinne Faivre-Finn, Janelle Yorke, and Matthew Sperrin<br>
+
+<i>JCO Clinical Cancer Informatics</i>,
+
+2024 (in press)
 
 <!-- Item: liao_prognostic_2023-->
 <li ><p>

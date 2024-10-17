@@ -83,11 +83,11 @@ author:
   name             : "Dr. Kuan Liao(廖宽)"
   avatar           : "selfie.jpg"
   bio              : "PhD in Health Informatics"
-  location         : 
-  employer         :
+  location         : "Hong Kong"
+  employer         : "The Hong Kong Polytechnic University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=GuoYh6wAAAAJ&hl=en"
-  email            :
+  email            : "kuanliao@polyu.edu.hk"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
