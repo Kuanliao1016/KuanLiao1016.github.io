@@ -62,7 +62,7 @@ function toggleBibtex(articleid) {
 
 <!-- Item: liao_ePROM_model_2024-->
 <li ><p>
-<b>Development, validation and clinical utility of electronic patient-reported outcome measures-enhanced prediction models for overall survival in people with advanced NSCLC receiving immunotherapy.,</b><br>
+<b>Development, validation and clinical utility of electronic patient-reported outcome measures-enhanced prediction models for overall survival in people with advanced NSCLC receiving immunotherapy</b><br>
 <b>Kuan Liao</b>, Sabine N van der Veer, Fabio Gomes, Corinne Faivre-Finn, Janelle Yorke, and Matthew Sperrin<br>
 
 <i>JCO Clinical Cancer Informatics</i>,
