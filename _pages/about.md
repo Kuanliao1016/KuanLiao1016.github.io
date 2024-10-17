@@ -14,8 +14,8 @@ Research interests
 ======
 * Clinical prediction modelling
 * Causal inference using observational health data
-* Patient reported data 
-
+* Patient-reported outcome measures 
+* Oncology
 
 Publications
 ======
