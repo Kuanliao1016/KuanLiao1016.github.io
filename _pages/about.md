@@ -67,7 +67,8 @@ function toggleBibtex(articleid) {
 
 <i>JCO Clinical Cancer Informatics</i>,
 
-2024 (in press)
+2024
+<a href="https://ascopubs.org/doi/10.1200/CCI.24.00035" class="textlink" target="_blank">[Link]</a>
 
 <!-- Item: liao_prognostic_2023-->
 <li ><p>
