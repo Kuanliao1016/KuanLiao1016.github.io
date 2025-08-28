@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a postdoctoral fellow at the [JC STEM Lab of Digital Oncology Care Enhancement](https://www.polyu.edu.hk/sn/doce/), Hong Kong Polytechnic University. I studied undergraduate Preventive Medicine (Epidimiology & Public Health) at Tianjin Medical University, following by a MSc Health data science at the University of Manchester, where I did my master dissetation with [Dr Sabine van der Veer](https://research.manchester.ac.uk/en/persons/sabine.vanderveer) and [Dr David Wong](https://personalpages.manchester.ac.uk/staff/david.wong/default.htm). Afterwards, I got my PhD in Health Informatics under the supervison of Dr Sabine van der Veer, Dr David Wong, [Dr Mattew Seprrin](https://research.manchester.ac.uk/en/persons/matthew.sperrin), [Prof Janelle Yorke](https://research.manchester.ac.uk/en/persons/janelle.yorke) and [Prof Corinne Faivre-Finn](https://research.manchester.ac.uk/en/persons/corinne.faivre-finn).
+I am a postdoctoral fellow at the [JC STEM Lab of Digital Oncology Care Enhancement](https://www.polyu.edu.hk/sn/doce/), Hong Kong Polytechnic University. I had a background in public health, followed by MSc in Health data science and PhD in Health Informatics from the University of Manchester, under the supervison of [Dr Sabine van der Veer](https://research.manchester.ac.uk/en/persons/sabine.vanderveer), [Dr David Wong](https://personalpages.manchester.ac.uk/staff/david.wong/default.htm), [Prof Mattew Seprrin](https://research.manchester.ac.uk/en/persons/matthew.sperrin), [Prof Janelle Yorke](https://research.manchester.ac.uk/en/persons/janelle.yorke) and [Prof Corinne Faivre-Finn](https://research.manchester.ac.uk/en/persons/corinne.faivre-finn).
 
 
 Research interests
