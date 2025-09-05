@@ -17,7 +17,7 @@ Research interests
 * Patient-reported outcome measures 
 * Oncology
 
-Publications
+Key publications
 ======
 <style>
 .biblist { }
@@ -57,7 +57,7 @@ function toggleBibtex(articleid) {
 </script>
 
 
-### Journal Publications
+
 <ol class="biblist">
 
 <!-- Item: liao_ePROM_model_2024-->
